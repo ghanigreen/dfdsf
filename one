@@ -1,0 +1,8 @@
+one
+modified by another developer
+<<<<<<< HEAD
+modified in local once again
+=======
+
+again modifiying
+>>>>>>> 3f01f899253a4de09e0b61eb2806034020920cb5
